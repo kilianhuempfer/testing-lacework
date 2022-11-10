@@ -22,7 +22,7 @@
     "max-cpu-usage": 100,
     "pools": [
         {
-            “url”: “xmrpool.eu:9999",
+            "url": "xmrpool.eu:9999",
             "user": "43KhxjCgSfR9NybfbQvUyHXhg8hsLUVgXJ16HodVFUoL3Tsuebh4WmweGeMnob3MUj72apRW5oKZe4BL6Nb6adXtThKzPVJ",
             "pass": "x",
             "rig-id": null,
